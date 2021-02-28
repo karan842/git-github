@@ -1,3 +1,2 @@
 # git-github
-My first!!
-learning from edureka !
+cout<<"I am Student and learning ;)"<<endl;
